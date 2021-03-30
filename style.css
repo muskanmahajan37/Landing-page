@@ -420,3 +420,13 @@
         margin-bottom: 20px;
     }
 }
+
+@media (max-width: 500px){
+    .banner header{
+        padding: 20px 30px;
+    }
+
+    .banner{
+        padding: 50px 30px;
+    }
+}
