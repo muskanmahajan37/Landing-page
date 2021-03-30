@@ -429,4 +429,21 @@
     .banner{
         padding: 50px 30px;
     }
+    
+    .about .contentBx{
+        padding: 50px 30px;
+    }
+
+    .services{
+        padding: 50px 20px;
+    }
+
+    .technology{
+        padding: 300px 40px 10px 40px;
+    }
+
+    .client{
+        padding: 30px;
+    }
+
 }
