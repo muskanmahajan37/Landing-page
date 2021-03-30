@@ -3,6 +3,8 @@
     <img src="https://ik.imagekit.io/mcvhbcq4zu/Animated_GIF-downsized_large__2___KRPIc-X1.gif">
 </h1>
 
+take a look --> https://responsive-landing-page-three.vercel.app/
+
 # Sections
 - [about](#-About)
 - [technologies](#-technologies)
