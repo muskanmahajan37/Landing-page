@@ -445,5 +445,16 @@
     .client{
         padding: 30px;
     }
+     .testimonials{
+        padding: 30px;
+    }
+
+    .contact{
+        padding: 30px;
+    }
+
+    .footer{
+        padding: 20px 40px;
+    }
 
 }
