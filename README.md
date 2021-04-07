@@ -3,7 +3,7 @@
     <img src="https://ik.imagekit.io/mcvhbcq4zu/Animated_GIF-downsized_large__2___KRPIc-X1.gif">
 </h1>
 
-take a look --> https://responsive-landing-page-three.vercel.app/
+:key: take a look --> https://responsive-landing-page-three.vercel.app/
 
 # Sections
 - [about](#-About)
@@ -15,7 +15,7 @@ I just replicated this Landing page in  order to pratice  responsive design, Cre
 
 ---
  
- ## technologies
+## 🛠 technologies
 the project was developed using the following technologies
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
