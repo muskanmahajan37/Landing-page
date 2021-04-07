@@ -8,7 +8,8 @@ take a look --> https://responsive-landing-page-three.vercel.app/
 # Sections
 - [about](#-About)
 - [technologies](#-technologies)
-##  About
+- 
+## :mag: About
 
 I just replicated this Landing page in  order to pratice  responsive design, Created by "**Online Tutorials**" replicated by **Victor lira dev**. in this project we can see how this website behaves on different types of screens
 
