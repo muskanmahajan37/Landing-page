@@ -1,6 +1,6 @@
 # Responsive Landing page
 <h1 align="center" >
-    <img src="https://ik.imagekit.io/mcvhbcq4zu/Animated_GIF-downsized_large__2___KRPIc-X1.gif">
+    <img src="https://ik.imagekit.io/mcvhbcq4zu/landing-page_dsA8bnpD0.gif">
 </h1>
 
 :key: take a look --> https://responsive-landing-page-three.vercel.app/
