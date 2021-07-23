@@ -3,7 +3,7 @@
     <img src="https://ik.imagekit.io/mcvhbcq4zu/landing-page_dsA8bnpD0.gif">
 </h1>
 
-:key: take a look --> https://victorlira-dev.github.io/Responsive-landing-page/
+:key: take a look --> https://victorlira-dev.github.io/Landing-page/
 
 # Sections
 - [about](#-About)
